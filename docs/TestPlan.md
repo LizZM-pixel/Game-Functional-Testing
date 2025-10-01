@@ -1,4 +1,4 @@
-#Test Plan — 2D Runner (Dino Game)
+# Test Plan — 2D Runner (Dino Game)
 
 **Tester:** Elizabeth Aquino
 **Game Under Test (GUT):** Dino Runner (Chrome Dinosaur Game)
