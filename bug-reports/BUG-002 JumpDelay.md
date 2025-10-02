@@ -7,6 +7,7 @@ Priority: P1
 Environment: Chrome 128 / Windows 11 / 60Hz monitor
 
 ## Steps to Reproduce
+
 - Open https://chromedino.com/
 
 - Start a run
