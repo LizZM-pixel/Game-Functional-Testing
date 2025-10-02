@@ -1,0 +1,30 @@
+# BUG-002 — Jump delay causes late response
+
+Severity: Major
+
+Priority: P1
+
+Environment: Chrome 128 / Windows 11 / 60Hz monitor
+
+**Steps to Reproduce**
+- Open https://chromedino.com/
+
+- Start a run
+
+- Press Spacebar to jump several times during gameplay
+
+- Observe the response timing
+
+**Expected Result**
+
+Jump action should trigger immediately (within ~100ms) after pressing Spacebar.
+
+
+**Actual Result**
+
+In 2/5 attempts, the jump triggers late (~300ms delay), causing the player to collide with obstacles.
+
+**Evidence**
+
+(Add a screenshot or GIF if captured)
+
