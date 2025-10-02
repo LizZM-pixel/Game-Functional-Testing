@@ -27,7 +27,7 @@ Environment: Chrome 128 / Windows 11
 | BUG-001 | Score not reset after restart | Major | P1 | Open |
 | BUG-002 | Jump delay causes late response | Major | P1 | Open |
 
-##Conclusion
+## Conclusion
 
 The Dino Runner game is partially functional.
 
