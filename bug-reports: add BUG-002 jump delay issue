@@ -6,7 +6,7 @@ Priority: P1
 
 Environment: Chrome 128 / Windows 11 / 60Hz monitor
 
-**Steps to Reproduce**
+## Steps to Reproduce
 - Open https://chromedino.com/
 
 - Start a run
@@ -15,7 +15,7 @@ Environment: Chrome 128 / Windows 11 / 60Hz monitor
 
 - Observe the response timing
 
-**Expected Result**
+### Expected Result
 
 Jump action should trigger immediately (within ~100ms) after pressing Spacebar.
 
@@ -26,5 +26,5 @@ In 2/5 attempts, the jump triggers late (~300ms delay), causing the player to co
 
 **Evidence**
 
-(Add a screenshot or GIF if captured)
+(screenshot or GIF if captured)
 
